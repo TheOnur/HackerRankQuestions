@@ -1,0 +1,6 @@
+E:\recursion_root\allsquare\markscakewalk\bin\Debug\markscakewalk.exe.config
+E:\recursion_root\allsquare\markscakewalk\bin\Debug\markscakewalk.exe
+E:\recursion_root\allsquare\markscakewalk\bin\Debug\markscakewalk.pdb
+E:\recursion_root\allsquare\markscakewalk\obj\Debug\markscakewalk.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\markscakewalk\obj\Debug\markscakewalk.exe
+E:\recursion_root\allsquare\markscakewalk\obj\Debug\markscakewalk.pdb
