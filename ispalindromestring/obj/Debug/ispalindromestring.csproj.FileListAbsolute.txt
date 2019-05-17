@@ -1,0 +1,6 @@
+E:\recursion_root\allsquare\ispalindromestring\obj\Debug\ispalindromestring.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\ispalindromestring\bin\Debug\ispalindromestring.exe.config
+E:\recursion_root\allsquare\ispalindromestring\bin\Debug\ispalindromestring.exe
+E:\recursion_root\allsquare\ispalindromestring\bin\Debug\ispalindromestring.pdb
+E:\recursion_root\allsquare\ispalindromestring\obj\Debug\ispalindromestring.exe
+E:\recursion_root\allsquare\ispalindromestring\obj\Debug\ispalindromestring.pdb
