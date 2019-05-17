@@ -1,0 +1,7 @@
+E:\recursion_root\allsquare\minimumabsolutedifference\bin\Debug\minimumabsolutedifference.exe.config
+E:\recursion_root\allsquare\minimumabsolutedifference\bin\Debug\minimumabsolutedifference.exe
+E:\recursion_root\allsquare\minimumabsolutedifference\bin\Debug\minimumabsolutedifference.pdb
+E:\recursion_root\allsquare\minimumabsolutedifference\obj\Debug\minimumabsolutedifference.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\minimumabsolutedifference\obj\Debug\minimumabsolutedifference.exe
+E:\recursion_root\allsquare\minimumabsolutedifference\obj\Debug\minimumabsolutedifference.pdb
+E:\recursion_root\allsquare\minimumabsolutedifference\obj\Debug\minimumabsolutedifference.csprojResolveAssemblyReference.cache
