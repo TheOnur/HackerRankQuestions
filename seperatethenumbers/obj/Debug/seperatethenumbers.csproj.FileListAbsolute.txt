@@ -1,0 +1,7 @@
+E:\recursion_root\allsquare\seperatethenumbers\bin\Debug\seperatethenumbers.exe.config
+E:\recursion_root\allsquare\seperatethenumbers\bin\Debug\seperatethenumbers.exe
+E:\recursion_root\allsquare\seperatethenumbers\bin\Debug\seperatethenumbers.pdb
+E:\recursion_root\allsquare\seperatethenumbers\obj\Debug\seperatethenumbers.csprojResolveAssemblyReference.cache
+E:\recursion_root\allsquare\seperatethenumbers\obj\Debug\seperatethenumbers.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\seperatethenumbers\obj\Debug\seperatethenumbers.exe
+E:\recursion_root\allsquare\seperatethenumbers\obj\Debug\seperatethenumbers.pdb

@@ -1,0 +1,7 @@
+e:\recursion_root\allsquare\allsquare\bin\Debug\allsquare.exe.config
+e:\recursion_root\allsquare\allsquare\bin\Debug\allsquare.exe
+e:\recursion_root\allsquare\allsquare\bin\Debug\allsquare.pdb
+e:\recursion_root\allsquare\allsquare\obj\Debug\allsquare.csprojResolveAssemblyReference.cache
+e:\recursion_root\allsquare\allsquare\obj\Debug\allsquare.csproj.CoreCompileInputs.cache
+e:\recursion_root\allsquare\allsquare\obj\Debug\allsquare.exe
+e:\recursion_root\allsquare\allsquare\obj\Debug\allsquare.pdb

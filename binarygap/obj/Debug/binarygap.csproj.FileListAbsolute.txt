@@ -1,0 +1,7 @@
+E:\recursion_root\allsquare\binarygap\bin\Debug\binarygap.exe.config
+E:\recursion_root\allsquare\binarygap\bin\Debug\binarygap.exe
+E:\recursion_root\allsquare\binarygap\bin\Debug\binarygap.pdb
+E:\recursion_root\allsquare\binarygap\obj\Debug\binarygap.csprojResolveAssemblyReference.cache
+E:\recursion_root\allsquare\binarygap\obj\Debug\binarygap.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\binarygap\obj\Debug\binarygap.exe
+E:\recursion_root\allsquare\binarygap\obj\Debug\binarygap.pdb

@@ -1,0 +1,7 @@
+E:\recursion_root\allsquare\containsstring\bin\Debug\containsstring.exe.config
+E:\recursion_root\allsquare\containsstring\bin\Debug\containsstring.exe
+E:\recursion_root\allsquare\containsstring\bin\Debug\containsstring.pdb
+E:\recursion_root\allsquare\containsstring\obj\Debug\containsstring.csprojResolveAssemblyReference.cache
+E:\recursion_root\allsquare\containsstring\obj\Debug\containsstring.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\containsstring\obj\Debug\containsstring.exe
+E:\recursion_root\allsquare\containsstring\obj\Debug\containsstring.pdb

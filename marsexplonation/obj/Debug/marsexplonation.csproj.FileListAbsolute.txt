@@ -1,0 +1,6 @@
+E:\recursion_root\allsquare\marsexplonation\bin\Debug\marsexplonation.exe.config
+E:\recursion_root\allsquare\marsexplonation\bin\Debug\marsexplonation.exe
+E:\recursion_root\allsquare\marsexplonation\bin\Debug\marsexplonation.pdb
+E:\recursion_root\allsquare\marsexplonation\obj\Debug\marsexplonation.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\marsexplonation\obj\Debug\marsexplonation.exe
+E:\recursion_root\allsquare\marsexplonation\obj\Debug\marsexplonation.pdb

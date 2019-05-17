@@ -1,0 +1,7 @@
+E:\recursion_root\allsquare\reducedstring\bin\Debug\reducedstring.exe.config
+E:\recursion_root\allsquare\reducedstring\bin\Debug\reducedstring.exe
+E:\recursion_root\allsquare\reducedstring\bin\Debug\reducedstring.pdb
+E:\recursion_root\allsquare\reducedstring\obj\Debug\reducedstring.csprojResolveAssemblyReference.cache
+E:\recursion_root\allsquare\reducedstring\obj\Debug\reducedstring.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\reducedstring\obj\Debug\reducedstring.exe
+E:\recursion_root\allsquare\reducedstring\obj\Debug\reducedstring.pdb

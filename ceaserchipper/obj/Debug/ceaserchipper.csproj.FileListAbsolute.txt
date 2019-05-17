@@ -1,0 +1,7 @@
+E:\recursion_root\allsquare\ceaserchipper\bin\Debug\ceaserchipper.exe.config
+E:\recursion_root\allsquare\ceaserchipper\bin\Debug\ceaserchipper.exe
+E:\recursion_root\allsquare\ceaserchipper\bin\Debug\ceaserchipper.pdb
+E:\recursion_root\allsquare\ceaserchipper\obj\Debug\ceaserchipper.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\ceaserchipper\obj\Debug\ceaserchipper.exe
+E:\recursion_root\allsquare\ceaserchipper\obj\Debug\ceaserchipper.pdb
+E:\recursion_root\allsquare\ceaserchipper\obj\Debug\ceaserchipper.csprojResolveAssemblyReference.cache

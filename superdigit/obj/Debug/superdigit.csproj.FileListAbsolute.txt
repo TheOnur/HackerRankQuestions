@@ -1,0 +1,7 @@
+E:\recursion_root\allsquare\superdigit\bin\Debug\superdigit.exe.config
+E:\recursion_root\allsquare\superdigit\bin\Debug\superdigit.exe
+E:\recursion_root\allsquare\superdigit\bin\Debug\superdigit.pdb
+E:\recursion_root\allsquare\superdigit\obj\Debug\superdigit.csprojResolveAssemblyReference.cache
+E:\recursion_root\allsquare\superdigit\obj\Debug\superdigit.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\superdigit\obj\Debug\superdigit.exe
+E:\recursion_root\allsquare\superdigit\obj\Debug\superdigit.pdb
