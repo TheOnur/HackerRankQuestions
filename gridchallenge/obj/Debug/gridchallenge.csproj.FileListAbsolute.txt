@@ -1,0 +1,7 @@
+E:\recursion_root\allsquare\gridchallenge\bin\Debug\gridchallenge.exe.config
+E:\recursion_root\allsquare\gridchallenge\bin\Debug\gridchallenge.exe
+E:\recursion_root\allsquare\gridchallenge\bin\Debug\gridchallenge.pdb
+E:\recursion_root\allsquare\gridchallenge\obj\Debug\gridchallenge.csproj.CoreCompileInputs.cache
+E:\recursion_root\allsquare\gridchallenge\obj\Debug\gridchallenge.exe
+E:\recursion_root\allsquare\gridchallenge\obj\Debug\gridchallenge.pdb
+E:\recursion_root\allsquare\gridchallenge\obj\Debug\gridchallenge.csprojResolveAssemblyReference.cache
