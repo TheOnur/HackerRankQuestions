@@ -8,10 +8,12 @@ namespace binarygap
     {
         static void Main(string[] args)
         {
-            int number = 15;
+            int number = 19;
             int @base = 2;
 
             string numberAtBaseEqual = FindNumberAtBaseEqual(number, @base);
+
+            Console.WriteLine($"{number} in binary format is {numberAtBaseEqual}");
 
             int maxGap = MaxGap(numberAtBaseEqual);
 
@@ -26,32 +28,34 @@ namespace binarygap
 
             for (int i = 0; i < n; i++)
             {
-                int j = i;
-                int k = i + 1;
+                int currentIndex = i;
+                int rightIndex = currentIndex + 1;
 
-                while (k < n)
+                while (rightIndex < n)
                 {
-                    if (numberInBinary[j] == '1' && numberInBinary[k] != '1')
+                    if (numberInBinary[currentIndex] == '0')
                     {
-                        int tmpDist = k - j;
+                        break;
+                    }
 
-                        if (tmpDist > maxDist)
+                    if (numberInBinary[currentIndex] == '1' && numberInBinary[rightIndex] == '0')
+                    {
+                        rightIndex++;
+                        continue;
+                    }
+                    
+                    if (numberInBinary[currentIndex] == '1' && numberInBinary[rightIndex] == '1' && (rightIndex - currentIndex != 1))
+                    {
+                        int tmp = rightIndex - currentIndex;
+
+                        if (tmp > maxDist)
                         {
-                            maxDist = tmpDist;
+                            maxDist = tmp;
                         }
                     }
-                    else if (numberInBinary[j] == '1' && numberInBinary[k] == '1')
-                    {
-                        break;
-                    }
-                    else if (numberInBinary[j] != '1' )
-                    {
-                        break;
-                    }
 
-                    k++;
+                    break;
                 }
-
             }
 
             return maxDist == int.MinValue ? 0 : maxDist;
