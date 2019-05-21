@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "markscakewalk", "markscakew
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gridchallenge", "gridchallenge\gridchallenge.csproj", "{35C9E3CB-8B3D-479B-8A19-174340425A39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oddoccurrencesinarray", "oddoccurrencesinarray\oddoccurrencesinarray.csproj", "{D9893576-F322-4C4C-9F76-7EBD431921D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{35C9E3CB-8B3D-479B-8A19-174340425A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35C9E3CB-8B3D-479B-8A19-174340425A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35C9E3CB-8B3D-479B-8A19-174340425A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9893576-F322-4C4C-9F76-7EBD431921D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9893576-F322-4C4C-9F76-7EBD431921D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9893576-F322-4C4C-9F76-7EBD431921D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9893576-F322-4C4C-9F76-7EBD431921D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
